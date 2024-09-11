@@ -6,4 +6,11 @@ ejemplo de python sobre listas, tuplas, conjuntos y dicionarios
 - resultado
 - ![image](https://github.com/user-attachments/assets/1d0f1b4b-a3a3-41e3-bf2c-9752845dc233)
 
+## ejemplo de tuplas
+- codigo
+- ![image](https://github.com/user-attachments/assets/7e8efe25-274a-42d4-8010-b2d865d490d0)
+- resultado
+- ![image](https://github.com/user-attachments/assets/b34bba49-8455-410b-8a92-d05bc7b875df)
+
+
 
